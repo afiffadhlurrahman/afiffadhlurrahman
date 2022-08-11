@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </br>
 
 [youtube]: https://www.youtube.com/channel/UClj2rcaQqxkYM_wqt3oIhYw
-[twitter]: https://twitter.com/vadlv_
+[twitter]: https://twitter.com/
 [linkedin]: https://www.linkedin.com/in/muhammad-afif-fadhlurrahman-9276761ab
 [instagram]: https://www.instagram.com/afif.fadhlurrahman1/
